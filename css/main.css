@@ -21,6 +21,9 @@ ul a:hover {
   font-family: Georgia;
 }
 
+ul .current {
+  background-color: #cc1465;
+}
 ul li {
   list-style-type: none;
   display: inline-block;
