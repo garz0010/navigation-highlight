@@ -37,12 +37,12 @@ ul a {
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
-  padding: .2em .75em;
+  padding: .75em;
 }
 
 header {
   background-color: #ffe500;
-  padding: .5em .75em;
+  padding-top: .2em .5em 3em;
 }
 
 header h1 {
@@ -67,7 +67,7 @@ main p {
 
 footer {
   background-color: #ffe500;
-  padding: .3em 0;
+  padding: 0 .75em;
   text-align: center;
   font-size: .75rem;
 }
