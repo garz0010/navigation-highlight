@@ -24,6 +24,7 @@ ul a:hover {
 ul .current {
   background-color: #cc1465;
 }
+
 ul li {
   list-style-type: none;
   display: inline-block;
