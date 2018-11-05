@@ -42,14 +42,14 @@ header {
 }
 
 header h1 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 3rem;
   text-align: center;
 }
 
 main h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.875rem;
   text-align: left;
