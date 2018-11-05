@@ -21,8 +21,15 @@ ul a:hover {
   font-family: Georgia;
 }
 
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  font-size: 1.125rem;
+}
+
 ul a {
   background-color: #b2a212;
+  margin: .3em;
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
@@ -31,9 +38,32 @@ ul a {
 
 header {
   background-color: #ffe500;
+  padding: .2em .75em;
 }
 
-h1 h2 {
+header h1 {
   font-family: 'Sigmar One', cursive;
   color: #b20953;
+  font-size: 3rem;
+  text-align: center;
+}
+
+main h2 {
+  font-family: 'Sigmar One', cursive;
+  color: #b20953;
+  font-size: 1.875rem;
+  text-align: left;
+}
+
+main p {
+  font-family: Georgia;
+  font-size: 1.125rem;
+  color: #2f2d13;
+}
+
+footer {
+  background-color: #ffe500;
+  padding: .3em 0;
+  text-align: center;
+  font-size: .75rem;
 }
