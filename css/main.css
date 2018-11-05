@@ -15,7 +15,6 @@ body {
 img {
   display: block;
   width: 100%;
-  padding: .2em .5em .3em;
 }
 
 ul a:hover {
@@ -43,7 +42,7 @@ ul a {
 
 header {
   background-color: #ffe500;
-  padding: .75em .0;
+  padding: .5em .75em;
 }
 
 header h1 {
